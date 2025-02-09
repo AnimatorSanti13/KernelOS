@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://github.com/Velytics/KernelOS/blob/main/img/Wallpaper.jpg" alt="Banner"</img>
   <br>
-  KernelOS
+  Windows 12Os
   <br>
 </h1>
 <h4 align="center">Una modificación del sistema operativo de Windows reformada para el rendimiento y la compatibilidad.</h4>
@@ -36,3 +36,4 @@ Obtendrás mejores FPS, marcos de tiempo más bajos y estables, mejor entrada y 
 
 ## Aviso
 Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_Spanish.htm)
+
